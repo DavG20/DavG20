@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/dawit-teshager-kebede/">
       <img src="https://img.shields.io/badge/LinkedIn-tomato?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/dawit_teshagerk/">
-      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://leetcode.com/Dawit_Teshager/">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
   </div>
   
