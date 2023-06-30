@@ -21,7 +21,6 @@
 * Interested in AI and ML 🤖
 ---
 
----
 ### 🚀 Passionate Software Engineer:
 I am deeply passionate about software engineering and take great pleasure in using my skills to solve community problems. I constantly seek opportunities to learn new things and stay up-to-date with the latest technologies and trends. Let's build a better world through code!
 ---
