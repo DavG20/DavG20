@@ -16,7 +16,12 @@
 ### 👨‍💻 &nbsp; About Me ->
  I am a Software Engineer <br>
 
-* Back-end Go and NestJS developer
-* Front End Flutter Developer
-* Interseted In AI and ML
+* Full Stack Developer (Backend: Go, NestJS, .NET; Frontend: React)
+* Flutter Developer for Mobile Apps
+* Interested in AI and ML 🤖
+---
+
+---
+### 🚀 Passionate Software Engineer:
+I am deeply passionate about software engineering and take great pleasure in using my skills to solve community problems. I constantly seek opportunities to learn new things and stay up-to-date with the latest technologies and trends. Let's build a better world through code!
 ---
