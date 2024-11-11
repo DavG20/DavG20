@@ -16,7 +16,7 @@
 ### 👨‍💻 &nbsp; About Me ->
  I am a Software Engineer <br>
 
-* Full Stack Developer (Backend: Go, NestJS, .NET; Frontend: React)
+* Full Stack Developer (Backend: Django, Go, NestJS, .NET; Frontend: React)
 * Flutter Developer for Mobile Apps
 * Interested in AI and ML 🤖
 
