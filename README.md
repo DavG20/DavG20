@@ -22,5 +22,5 @@
 
 ---
 ### 🚀 Passionate Software Engineer:
-* I am deeply passionate about software engineering and take great pleasure in using my skills to solve community problems. I constantly seek opportunities to learn new things and stay up-to-date with the latest technologies and trends. Let's build a better world through code!
+* MSc Computer Science student specializing in AI & Machine Learning at the University of Genoa, with 4+ years of backend development experience. Passionate about intelligent systems, data-driven solutions, and scalable software.
 ---
